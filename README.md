@@ -1,6 +1,6 @@
 # use_api
 
-A new Flutter project.
+A new Flutter project using JSON api which generates User Data with their github links also in the Drawer there is second page for generating Random USer that  generates users profile pic, name, phone number and gender. 
 
 ## Getting Started
 
